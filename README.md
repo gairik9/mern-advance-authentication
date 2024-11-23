@@ -1,4 +1,4 @@
-**Advanced Authentication Project**
+**Advanced Authentication Project**\
 *🌟 About the Project*\
 This project is a full-stack MERN application that focuses on advanced authentication functionality. It provides a secure and seamless user experience, incorporating modern features like email OTP verification, robust password validation, and convenient account recovery options.\
 
