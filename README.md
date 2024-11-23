@@ -39,7 +39,7 @@ Tailwind CSS: For modern, responsive, and visually appealing designs.
 Vite: A fast and modern build tool for optimized development.
 
 **🎯 Key Features in Action**\
-Signup Process with Email Verification\
+Signup Process with Email Verification.
 
 **User registers and receives an OTP via email.**\
 The OTP is verified to activate the account.\
@@ -54,3 +54,14 @@ Users can securely update their passwords.
 Optimized State Management
 
 **Zustand ensures smooth transitions and data handling across the app.**
+
+**Screenshots**
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
