@@ -1,5 +1,9 @@
-**Advanced Authentication Project**\
-*🌟 About the Project*\
+**Advanced Authentication Project**
+
+
+***🌟 About the Project***
+
+
 This project is a full-stack MERN application that focuses on advanced authentication functionality. It provides a secure and seamless user experience, incorporating modern features like email OTP verification, robust password validation, and convenient account recovery options.
 
 The application is designed to prioritize both security and user convenience, with a beautifully styled frontend and a robust backend.
@@ -8,10 +12,11 @@ The application is designed to prioritize both security and user convenience, wi
 User Registration with Email OTP Verification.\
 Users must verify their email address via OTP to complete the signup process, enhancing account security.
 
-**Advanced Password Validation**\
+**Advanced Password Validation**
+
 A visually appealing password validation component guides users in creating strong, secure passwords.
 
-**Forgot Password and Reset Password Functionality**\
+**Forgot Password and Reset Password Functionality**
 Simplifies account recovery with options to reset passwords securely.
 
 **State Management with Zustand**\
@@ -21,22 +26,23 @@ Efficient and lightweight state management for a smooth and responsive frontend.
 A modern, utility-first CSS framework ensures a clean and responsive UI.
 
 **🛠️ Technologies Used**\
+
 *Backend:*\
-Express.js: Fast and minimalist web framework for Node.js.
-MongoDB with Mongoose: A schema-based solution to model application data.
-JSON Web Tokens (JWT): Secure authentication and session management.
-bcrypt.js: Hashing library for secure password storage.
-dotenv: Manage environment variables with ease.
-crypto: Cryptographic utilities for secure token generation.
-cookie-parser: Parse cookies to manage sessions securely.
-CORS: Enable cross-origin resource sharing for secure communication.
-Mailtrap: For sending email OTPs during the signup process.
+1. Express.js: Fast and minimalist web framework for Node.js.
+2. MongoDB with Mongoose: A schema-based solution to model application data.
+3. JSON Web Tokens (JWT): Secure authentication and session management.
+4. bcrypt.js: Hashing library for secure password storage.
+5. dotenv: Manage environment variables with ease.
+6. crypto: Cryptographic utilities for secure token generation.
+7. cookie-parser: Parse cookies to manage sessions securely.
+8. CORS: Enable cross-origin resource sharing for secure communication.
+9. Mailtrap: For sending email OTPs during the signup process.
 
 *Frontend:*\
-React.js: A powerful library for building dynamic user interfaces.
-Zustand: Lightweight and flexible state management.
-Tailwind CSS: For modern, responsive, and visually appealing designs.
-Vite: A fast and modern build tool for optimized development.
+1. React.js: A powerful library for building dynamic user interfaces.
+2. Zustand: Lightweight and flexible state management.
+3. Tailwind CSS: For modern, responsive, and visually appealing designs.
+4. Vite: A fast and modern build tool for optimized development.
 
 **🎯 Key Features in Action**\
 Signup Process with Email Verification.
@@ -56,6 +62,7 @@ Optimized State Management
 **Zustand ensures smooth transitions and data handling across the app.**
 
 **Screenshots**
+
 ![alt text](image.png)
 
 ![alt text](image-1.png)
